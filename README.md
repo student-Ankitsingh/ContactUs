@@ -10,6 +10,8 @@ Vite
 
 React Icons
 
+Start - npm run dev
+
 ⚙️ Setup
 git clone https://github.com/your-username/ContactUs.git
 cd ContactUs
